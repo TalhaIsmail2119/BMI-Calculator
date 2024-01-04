@@ -27,7 +27,7 @@ class _page2State extends State<page2> {
       body: Container(
         height: double.infinity,
         width: double.infinity,
-        color: Colors.orangeAccent,
+        color: Colors.orangeAccent.shade200,
 
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
